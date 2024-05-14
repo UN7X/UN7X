@@ -5,7 +5,7 @@
 - 📫 How to reach me: unix@un7x.net or @un7x on Discord
 - 😄 Pronouns: .he/him
 - ⚡ Fun facts:
-- Im mexican/american, living in Mexico since September 2021,
+- I'm mexican/american, living in Mexico since September 2021,
 - I have 15 years of age,
 - I know HTML, CSS (learning js), but im terrible at making anything good looking,
 - I get ahead of myself too much, and get cocky at times,
